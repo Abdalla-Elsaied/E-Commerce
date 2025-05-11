@@ -1,0 +1,15 @@
+E:\courses\VS projects\ServiceisLayer\bin\Release\net8.0\ServiceisLayer.deps.json
+E:\courses\VS projects\ServiceisLayer\bin\Release\net8.0\ServiceisLayer.dll
+E:\courses\VS projects\ServiceisLayer\bin\Release\net8.0\ServiceisLayer.pdb
+E:\courses\VS projects\ServiceisLayer\bin\Release\net8.0\DomainLayer.dll
+E:\courses\VS projects\ServiceisLayer\bin\Release\net8.0\DomainLayer.pdb
+E:\courses\VS projects\ServiceisLayer\obj\Release\net8.0\ServiceisLayer.csproj.AssemblyReference.cache
+E:\courses\VS projects\ServiceisLayer\obj\Release\net8.0\ServiceisLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\courses\VS projects\ServiceisLayer\obj\Release\net8.0\ServiceisLayer.AssemblyInfoInputs.cache
+E:\courses\VS projects\ServiceisLayer\obj\Release\net8.0\ServiceisLayer.AssemblyInfo.cs
+E:\courses\VS projects\ServiceisLayer\obj\Release\net8.0\ServiceisLayer.csproj.CoreCompileInputs.cache
+E:\courses\VS projects\ServiceisLayer\obj\Release\net8.0\Servicei.35299C8F.Up2Date
+E:\courses\VS projects\ServiceisLayer\obj\Release\net8.0\ServiceisLayer.dll
+E:\courses\VS projects\ServiceisLayer\obj\Release\net8.0\refint\ServiceisLayer.dll
+E:\courses\VS projects\ServiceisLayer\obj\Release\net8.0\ServiceisLayer.pdb
+E:\courses\VS projects\ServiceisLayer\obj\Release\net8.0\ref\ServiceisLayer.dll

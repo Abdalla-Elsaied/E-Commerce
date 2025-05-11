@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\courses\\VS projects\\Talabat.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|e:\\courses\\vs projects\\talabat.api\\extentions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|solutionrelative:extentions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D881B1-1CC6-4E49-8E76-D83413F41F9E}|..\\ServiceisLayer\\ServiceisLayer.csproj|e:\\courses\\vs projects\\serviceislayer\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|e:\\courses\\vs projects\\talabat.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|solutionrelative:controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|e:\\courses\\vs projects\\talabat.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|e:\\courses\\vs projects\\talabat.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D881B1-1CC6-4E49-8E76-D83413F41F9E}|..\\ServiceisLayer\\ServiceisLayer.csproj|e:\\courses\\vs projects\\serviceislayer\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|e:\\courses\\vs projects\\talabat.api\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|solutionrelative:helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D957BA-16CF-46FC-BDDA-F928279CCA7E}|..\\Domin\\DomainLayer.csproj|e:\\courses\\vs projects\\domin\\entities\\order aggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9114F9AD-4E59-477B-B917-838291EF8D74}|..\\RepositoryLayer\\RepositoryLayer.csproj|e:\\courses\\vs projects\\repositorylayer\\data\\config\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D957BA-16CF-46FC-BDDA-F928279CCA7E}|..\\Domin\\DomainLayer.csproj|e:\\courses\\vs projects\\domin\\entities\\order aggregate\\productitemordered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D957BA-16CF-46FC-BDDA-F928279CCA7E}|..\\Domin\\DomainLayer.csproj|e:\\courses\\vs projects\\domin\\entities\\order aggregate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|e:\\courses\\vs projects\\talabat.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D957BA-16CF-46FC-BDDA-F928279CCA7E}|..\\Domin\\DomainLayer.csproj|e:\\courses\\vs projects\\domin\\entities\\order aggregate\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D957BA-16CF-46FC-BDDA-F928279CCA7E}|..\\Domin\\DomainLayer.csproj|e:\\courses\\vs projects\\domin\\entities\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D957BA-16CF-46FC-BDDA-F928279CCA7E}|..\\Domin\\DomainLayer.csproj|e:\\courses\\vs projects\\domin\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D957BA-16CF-46FC-BDDA-F928279CCA7E}|..\\Domin\\DomainLayer.csproj|e:\\courses\\vs projects\\domin\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D957BA-16CF-46FC-BDDA-F928279CCA7E}|..\\Domin\\DomainLayer.csproj|e:\\courses\\vs projects\\domin\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|e:\\courses\\vs projects\\talabat.api\\extentions\\authservicesextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|solutionrelative:extentions\\authservicesextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|e:\\courses\\vs projects\\talabat.api\\middelwears\\servermiddelwear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|solutionrelative:middelwears\\servermiddelwear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|e:\\courses\\vs projects\\talabat.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9114F9AD-4E59-477B-B917-838291EF8D74}|..\\RepositoryLayer\\RepositoryLayer.csproj|e:\\courses\\vs projects\\repositorylayer\\repository\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|e:\\courses\\vs projects\\talabat.api\\errors\\servererrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|solutionrelative:errors\\servererrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|e:\\courses\\vs projects\\talabat.api\\errors\\apivalidationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|solutionrelative:errors\\apivalidationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|e:\\courses\\vs projects\\talabat.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|e:\\courses\\vs projects\\talabat.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D881B1-1CC6-4E49-8E76-D83413F41F9E}|..\\ServiceisLayer\\ServiceisLayer.csproj|e:\\courses\\vs projects\\serviceislayer\\responsecachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D957BA-16CF-46FC-BDDA-F928279CCA7E}|..\\Domin\\DomainLayer.csproj|e:\\courses\\vs projects\\domin\\services.contract\\iresponsecachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|e:\\courses\\vs projects\\talabat.api\\helper\\cachattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C00A58D-66A3-44A4-843F-37406F030152}|E-Commerce.csproj|solutionrelative:helper\\cachattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationServicesExtension.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Talabat.API\\Extentions\\ApplicationServicesExtension.cs",
+              "RelativeDocumentMoniker": "Extentions\\ApplicationServicesExtension.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Talabat.API\\Extentions\\ApplicationServicesExtension.cs",
+              "RelativeToolTip": "Extentions\\ApplicationServicesExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T20:36:57.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Talabat.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Talabat.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:41:06.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Talabat.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\courses\\VS projects\\Talabat.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T21:36:43.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\ServiceisLayer\\PaymentService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceisLayer\\PaymentService.cs",
+              "ToolTip": "E:\\courses\\VS projects\\ServiceisLayer\\PaymentService.cs",
+              "RelativeToolTip": "..\\ServiceisLayer\\PaymentService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T01:22:46.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Talabat.API\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentsController.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Talabat.API\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T01:28:06.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\ServiceisLayer\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceisLayer\\OrderService.cs",
+              "ToolTip": "E:\\courses\\VS projects\\ServiceisLayer\\OrderService.cs",
+              "RelativeToolTip": "..\\ServiceisLayer\\OrderService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwFUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:25:01.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Talabat.API\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\MappingProfile.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Talabat.API\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "Helper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:30:28.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Domin\\Entities\\Order Aggregate\\Order.cs",
+              "RelativeDocumentMoniker": "..\\Domin\\Entities\\Order Aggregate\\Order.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Domin\\Entities\\Order Aggregate\\Order.cs",
+              "RelativeToolTip": "..\\Domin\\Entities\\Order Aggregate\\Order.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:34:09.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\RepositoryLayer\\Data\\Config\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Data\\Config\\OrderConfiguration.cs",
+              "ToolTip": "E:\\courses\\VS projects\\RepositoryLayer\\Data\\Config\\OrderConfiguration.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Data\\Config\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:36:58.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Domin\\Entities\\Order Aggregate\\OrderItem.cs",
+              "RelativeDocumentMoniker": "..\\Domin\\Entities\\Order Aggregate\\OrderItem.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Domin\\Entities\\Order Aggregate\\OrderItem.cs",
+              "RelativeToolTip": "..\\Domin\\Entities\\Order Aggregate\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:12:51.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductItemOrdered.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Domin\\Entities\\Order Aggregate\\ProductItemOrdered.cs",
+              "RelativeDocumentMoniker": "..\\Domin\\Entities\\Order Aggregate\\ProductItemOrdered.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Domin\\Entities\\Order Aggregate\\ProductItemOrdered.cs",
+              "RelativeToolTip": "..\\Domin\\Entities\\Order Aggregate\\ProductItemOrdered.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:44:16.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Talabat.API\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Talabat.API\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:25:15.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Address.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Domin\\Entities\\Order Aggregate\\Address.cs",
+              "RelativeDocumentMoniker": "..\\Domin\\Entities\\Order Aggregate\\Address.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Domin\\Entities\\Order Aggregate\\Address.cs",
+              "RelativeToolTip": "..\\Domin\\Entities\\Order Aggregate\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:44:19.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Domin\\Entities\\BaseModel.cs",
+              "RelativeDocumentMoniker": "..\\Domin\\Entities\\BaseModel.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Domin\\Entities\\BaseModel.cs",
+              "RelativeToolTip": "..\\Domin\\Entities\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:33:17.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Domin\\Entities\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "..\\Domin\\Entities\\ProductCategory.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Domin\\Entities\\ProductCategory.cs",
+              "RelativeToolTip": "..\\Domin\\Entities\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:33:07.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Domin\\Entities\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "..\\Domin\\Entities\\ProductBrand.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Domin\\Entities\\ProductBrand.cs",
+              "RelativeToolTip": "..\\Domin\\Entities\\ProductBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:33:04.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Domin\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Domin\\Entities\\Product.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Domin\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\Domin\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:32:52.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServerMiddelWear.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Talabat.API\\MiddelWears\\ServerMiddelWear.cs",
+              "RelativeDocumentMoniker": "MiddelWears\\ServerMiddelWear.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Talabat.API\\MiddelWears\\ServerMiddelWear.cs",
+              "RelativeToolTip": "MiddelWears\\ServerMiddelWear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:50:47.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthServicesExtentions.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Talabat.API\\Extentions\\AuthServicesExtentions.cs",
+              "RelativeDocumentMoniker": "Extentions\\AuthServicesExtentions.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Talabat.API\\Extentions\\AuthServicesExtentions.cs",
+              "RelativeToolTip": "Extentions\\AuthServicesExtentions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:50:35.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServerErrorResponse.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Talabat.API\\Errors\\ServerErrorResponse.cs",
+              "RelativeDocumentMoniker": "Errors\\ServerErrorResponse.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Talabat.API\\Errors\\ServerErrorResponse.cs",
+              "RelativeToolTip": "Errors\\ServerErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:50:19.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApiValidationResponse.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Talabat.API\\Errors\\ApiValidationResponse.cs",
+              "RelativeDocumentMoniker": "Errors\\ApiValidationResponse.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Talabat.API\\Errors\\ApiValidationResponse.cs",
+              "RelativeToolTip": "Errors\\ApiValidationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:50:16.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\RepositoryLayer\\Repository\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Repository\\BasketRepository.cs",
+              "ToolTip": "E:\\courses\\VS projects\\RepositoryLayer\\Repository\\BasketRepository.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Repository\\BasketRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:44:29.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Talabat.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Talabat.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:36:49.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Talabat.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Talabat.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:28:53.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CachAttribute.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Talabat.API\\Helper\\CachAttribute.cs",
+              "RelativeDocumentMoniker": "Helper\\CachAttribute.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Talabat.API\\Helper\\CachAttribute.cs",
+              "RelativeToolTip": "Helper\\CachAttribute.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T20:33:23.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Talabat.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Talabat.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T20:32:17.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IResponseCachService.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\Domin\\Services.Contract\\IResponseCachService.cs",
+              "RelativeDocumentMoniker": "..\\Domin\\Services.Contract\\IResponseCachService.cs",
+              "ToolTip": "E:\\courses\\VS projects\\Domin\\Services.Contract\\IResponseCachService.cs",
+              "RelativeToolTip": "..\\Domin\\Services.Contract\\IResponseCachService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T20:12:26.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ResponseCachService.cs",
+              "DocumentMoniker": "E:\\courses\\VS projects\\ServiceisLayer\\ResponseCachService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceisLayer\\ResponseCachService.cs",
+              "ToolTip": "E:\\courses\\VS projects\\ServiceisLayer\\ResponseCachService.cs",
+              "RelativeToolTip": "..\\ServiceisLayer\\ResponseCachService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA1wBQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T20:11:49.755Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
